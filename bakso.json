@@ -1,0 +1,37 @@
+{bakso: [
+  {
+    "id": 1,
+    "name": "Bakso Urat",
+    "price": 15000,
+    "categoryId": 1
+    "img": "baksobiasa.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Bakso Aci",
+    "price": 15000,
+    "categoryId": 1
+    "img": "baksobiasa.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Bakso Kikil",
+    "price": 20000,
+    "categoryId": 1
+    "img": "baksobiasa.jpg"
+  },{
+    "id": 4,
+    "name": "Bakso Beranak",
+    "price": 20000,
+    "categoryId": 1
+    "img": "baksobiasa.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Bakso Cincang",
+    "price": 20000,
+    "categoryId": 1
+    "img": "baksobiasa.jpg"
+  }
+]
+}
