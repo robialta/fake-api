@@ -2,5 +2,9 @@
 [{"id": 1, "name": "Bakso","img":"images/bakso.jpg"},
  {"id":2, "name": "Soto","img":"images/bgsoto.jpg"},
  {"id":3, "name":"Mie Ayam","img":"images/mieayam.jpg"},
- {"id":4, "name":"Nasi Goreng","img":"images/nasgor.jpg"}]
+ {"id":4, "name":"Nasi Goreng","img":"images/nasgor.jpg"},
+{"id": 5, "name": "Bakso","img":"images/bakso.jpg"},
+ {"id":6, "name": "Soto","img":"images/bgsoto.jpg"},
+ {"id":7, "name":"Mie Ayam","img":"images/mieayam.jpg"},
+ {"id":8, "name":"Nasi Goreng","img":"images/nasgor.jpg"}]
 }
