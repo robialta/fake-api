@@ -1,1 +1,12 @@
 
+{"data":
+ [{"id": "uogddat69wat9a7dtf976", "cashExchess": "Bakso", "nominal":"images/bakso.jpg", "currency": "Bakso", "status":1},
+  {"id": "goefute78ef", "cashExchess": "Soto", "nominal":"images/bgsoto.jpg", "currency": "Bakso","status":1},
+  {"id": "uhfouiya078fyef", "cashExchess":"Mie Ayam", "nominal":"images/mieayam.jpg", "currency": "Bakso","status":1},
+  {"id": "skajhuifa87", "cashExchess":"Nasi Goreng", "nominal":"images/nasgor.jpg", "currency": "Bakso","status":1},
+  {"id": "sduogfte78f", "cashExchess": "Bakso", "nominal":"images/bakso.jpg", "currency": "Bakso","status":2},
+  {"id": "piugf78yfw78", "cashExchess": "Soto", "nominal":"images/bgsoto.jpg", "currency": "Bakso","status":2},
+  {"id": "sdhowd78wfw89", "cashExchess":"Mie Ayam", "nominal":"images/mieayam.jpg", "currency": "Bakso","status":1},
+  {"id": "puihiowdwduidh088", "cashExchess":"Nasi Goreng", "nominal":"images/nasgor.jpg", "currency": "Bakso","status":2}
+ ],
+}
