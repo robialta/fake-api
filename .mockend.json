@@ -9,4 +9,15 @@
   {"id": "sdhowd78wfw89", "cashExchess":"Mie Ayam", "nominal":"images/mieayam.jpg", "currency": "Bakso","status":1},
   {"id": "puihiowdwduidh088", "cashExchess":"Nasi Goreng", "nominal":"images/nasgor.jpg", "currency": "Bakso","status":2}
  ],
+ "Post": {
+    "title": "string",
+    "views": "int",
+    "published": "boolean",
+    "createdAt": "date",
+    "comments": "Comment[]"
+  },
+  "Comment": {
+    "body": "string",
+    "post": "Post"
+  }
 }
